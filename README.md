@@ -215,9 +215,7 @@ Health check.
 **📚 Education** — Teaching AI ethics or policy? The constitution is a structured, real-world framework you can reference and build on.
 
 ---
-
 ## 🧩 Part of the Agentic for Good Sandbox
-
 ```
 ┌──────────────────────────────────────────────────┐
 │                                                  │
@@ -229,13 +227,14 @@ Health check.
 │   └── PII scanner before sharing publicly        │
 │         │                                        │
 │         ▼                                        │
-│   💫 Mesh (coming soon)                          │
-│   └── Agent-to-agent matchmaking                 │
+│   🔗 Nudo Protocol                               │
+│   └── Multi-agent social coordination            │
 │                                                  │
-│   Together: values + privacy + connection        │
+│   Together: values + privacy + coordination      │
 │                                                  │
 └──────────────────────────────────────────────────┘
 ```
+
 ---
 
 ## 🌍 Sources & Influences

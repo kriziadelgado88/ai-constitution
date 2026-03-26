@@ -236,7 +236,22 @@ Health check.
 │                                                  │
 └──────────────────────────────────────────────────┘
 ```
+---
 
+## 🌍 Sources & Influences
+
+This constitution stands on the shoulders of several foundational documents. Anthropic's Claude Constitution (January 2026) is the primary source, and it itself drew from:
+
+| Source | Influence |
+|--------|-----------|
+| 🇺🇳 **UN Universal Declaration of Human Rights** | Human dignity, equality, right to information, right to education, duties to community |
+| 🐦 **DeepMind Sparrow Principles** | Grounding rules for AI assistants, domain-specific caution |
+| 🍎 **Apple Terms of Service** | Content safety standards and platform responsibility |
+| 🌏 **Non-Western Ethical Perspectives** | Broadening beyond Western moral frameworks |
+| 🗳️ **Collective Intelligence Project (Public Input)** | 1,000+ Americans deliberated on AI principles via Polis, producing a publicly sourced constitution |
+| 📄 **Constitutional AI Paper (Bai et al., 2022)** | The original technical framework for training AI with principles instead of human labels |
+
+The current app (v2) is built entirely on Anthropic's January 2026 constitution, which internalized lessons from all of the above into a single cohesive framework released under CC0 1.0.
 ---
 
 ## 📖 Source & License

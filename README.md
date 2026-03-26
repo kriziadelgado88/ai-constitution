@@ -34,14 +34,6 @@ Deploy to any Node.js hosting platform:
 
 Make sure your deployed URL uses **HTTPS** (required by Join39).
 
-## Submit to Join39
-
-1. Deploy the app and note your HTTPS URL
-2. Open `manifest.json` and replace `https://YOUR-DOMAIN.com/api/constitution` with your actual URL
-3. Go to Join39's `/apps/submit`
-4. Fill in the form using the values from `manifest.json`
-5. Paste the `functionDefinition` object from the manifest
-6. Submit — you'll earn 50 points!
 
 ## Test Locally
 

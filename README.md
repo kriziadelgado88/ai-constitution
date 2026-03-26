@@ -216,7 +216,7 @@ Health check.
 
 ---
 
-## 🧩 Part of the Krizia Agent Ecosystem
+## 🧩 Part of the Agentic for Good Sandbox
 
 ```
 ┌──────────────────────────────────────────────────┐

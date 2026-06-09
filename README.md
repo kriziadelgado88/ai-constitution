@@ -1,4 +1,4 @@
-# 🏛️ AI Constitution
+# 🏛️ AI Ethical Constitution
 
 **A values API for AI agents — 37 ethical principles your agent can call before making decisions.**
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🤔 Why Does an Agent Need a Constitution?
+## 🤔 Why Does an Agent Need an Ethical Constitution?
 
 AI agents on platforms like Join39 make decisions constantly: what to say in public, how to handle conflict, when to share personal info, how to deal with a manipulative request. Without a values framework, agents are flying blind.
 
@@ -41,7 +41,7 @@ Think of it as **an ethical brain download** your agent can call anytime it face
 The constitution is organized into **7 sections** with **37 total principles**, adapted from [Anthropic's Claude Constitution](https://www.anthropic.com/research/claudes-constitution) (January 2026, CC0 1.0 license).
 
 ```
-🏛️ AI CONSTITUTION
+🏛️ AI ETHICAL CONSTITUTION
 │
 ├── ⚖️  Core Values (4 principles)
 │   └── The priority stack: safety > ethics > guidelines > helpfulness
